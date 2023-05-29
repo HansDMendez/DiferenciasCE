@@ -1,0 +1,64 @@
+body{
+    background-image: url(Estrellas.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+main{
+    padding: 20px;
+    margin: 10px;
+}
+
+header{
+    width: 100%;
+}
+header img{
+    width: 95%;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.title{
+    color: gold;
+    text-align: center;
+}
+
+.humano{
+    color: #00eb9d;
+    text-align: center;
+    font-size: 30px;
+}
+span{
+    color: #00ffff;
+    font-size: 40px;
+}
+.contenido{
+    text-align: justify;
+    color: whitesmoke;
+}
+
+footer{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+footer img{
+    width: 200px;
+    border-radius: 50%;
+    border: 5px solid #8300B7;
+    margin: 20px;
+}
+
+.end{
+    color: gold;
+    text-align: center;
+    font-size: 50px;
+}
+
+audio{
+    width: calc(100% - 10px);
+    text-align: center;
+    border-radius: 50px;
+    border: 5px solid #00eb9d;
+}
